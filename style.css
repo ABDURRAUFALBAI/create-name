@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+body {
+    background-color: #d1cece;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.kotak {
+    width: 700px;
+    height: 330px;
+    background-color: #fff;
+    background-position: center;
+    margin: 50px auto;
+    border-radius: 40px;
+}
+
+.image {
+    padding: 60px 30px ;
+    float: left;
+}
+.image img {
+    border-radius: 15px;
+}
+.judul span{
+    color: #0a43ff;
+    padding-left: 3px;
+    border-left: 2px solid black;
+}
+.judul h1{ 
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 60px;
+}
+.judul p{
+    color: #4e4e4e;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.data ul li {
+    font-size: 18px;
+    padding-bottom: 8px;
+    text-align: justify;
+    margin-right: 50px;
+    display: block;
+}
+.data ul {
+    float: left;
+}
+.user ul li{
+    font-size: 18px;
+    padding-bottom: 8px;
+    text-align: left;
+    display: block;
+    
+}
+
+
+
